@@ -1,0 +1,5 @@
+PROGRAMA CON ARBOL DE DECISIÓN
+
+El primer paso para utilizar el programa con árboles de decisión es crear una base de datos con la que el programa trabajará. Esta base de datos servirá como referencia para que el programa realice predicciones sobre los valores que se desean obtener.
+En el caso del modelo determinístico EOQ, se creó una base de datos con 10,000 registros. Esta base debe incluir tanto los parámetros utilizados para el cálculo como los resultados obtenidos a partir de dichos parámetros. Es fundamental que la base de datos sea lo suficientemente completa y representativa para garantizar un buen desempeño del modelo.
+Una vez creada, el primer paso operativo es cargar la base de datos en el programa.
